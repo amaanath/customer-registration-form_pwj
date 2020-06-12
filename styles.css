@@ -1,0 +1,20 @@
+#form_container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: 70vw;
+}
+
+#required {
+  color: red;
+  font-weight: bold;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
